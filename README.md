@@ -1,0 +1,2 @@
+# BrutusBunny v1.0
+BrutusBunny is a C# framework, that works in .Net and Mono. It helps to create bash bunny script for brute force purpose. It uses fluent and firendly sintax. For example you can create in a easy way a script for brute force numeric pins with few  lines of code. It is distributed under the GNU GPLv3 license.
