@@ -1,5 +1,0 @@
-C:\Users\EB_I01444\Dropbox\Max\0-Temp\BrutusBunny\BrutusBunny\bin\Release\BrutusBunny.exe
-C:\Users\EB_I01444\Dropbox\Max\0-Temp\BrutusBunny\BrutusBunny\bin\Release\BrutusBunny.pdb
-C:\Users\EB_I01444\Dropbox\Max\0-Temp\BrutusBunny\BrutusBunny\obj\Release\BrutusBunny.csproj.CoreCompileInputs.cache
-C:\Users\EB_I01444\Dropbox\Max\0-Temp\BrutusBunny\BrutusBunny\obj\Release\BrutusBunny.exe
-C:\Users\EB_I01444\Dropbox\Max\0-Temp\BrutusBunny\BrutusBunny\obj\Release\BrutusBunny.pdb
